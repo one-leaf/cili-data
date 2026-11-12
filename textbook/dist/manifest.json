@@ -1,0 +1,40 @@
+{
+ "schema_version": 1,
+ "dataset_version": "2026-11-12.1352b.8850c",
+ "generated_at": "2026-11-12 19:44:29",
+ "scope": [
+  "世界历史",
+  "中国历史",
+  "信息技术",
+  "化学",
+  "历史",
+  "地理",
+  "思想政治",
+  "数学",
+  "物理",
+  "生物学",
+  "科学",
+  "英语",
+  "英语（三年级起点）",
+  "语文",
+  "道德与法治"
+ ],
+ "compression": "bzip2",
+ "books": 1352,
+ "chapters": 8850,
+ "chars": 94179674,
+ "artifacts": {
+  "chapters": {
+   "file": "chapters.zip",
+   "bytes": 61450551,
+   "sha256": "1d78a44dfb05e5ec2421c320ee1fc297c0e74c0c92f936af2450fffae550baf7",
+   "members": 8850
+  },
+  "catalog": {
+   "file": "catalog.json",
+   "bytes": 388565,
+   "sha256": "72467338812f431ea659869bc980b42bae21efd16566859c110b075a5ef6133e"
+  }
+ },
+ "source_manifest_sha256": "64671f84aaf1817077cab825c77a453cae8678f3d90f536845d47c94f233b7d9"
+}

@@ -1,0 +1,11 @@
+# 本仓库只分发 refine 打包产物；脚本、md/md_clear 原文与过程文件仅本地使用
+*
+!.gitignore
+!README.md
+!textbook/
+textbook/*
+!textbook/dist/
+textbook/dist/*
+!textbook/dist/chapters.zip
+!textbook/dist/catalog.json
+!textbook/dist/manifest.json
