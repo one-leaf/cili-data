@@ -1,7 +1,7 @@
 {
  "schema_version": 1,
- "dataset_version": "2026-11-12.1352b.8850c",
- "generated_at": "2026-11-12 19:44:29",
+ "dataset_version": "2026-11-13.1169b.7775c",
+ "generated_at": "2026-11-13 10:18:51",
  "scope": [
   "世界历史",
   "中国历史",
@@ -20,20 +20,20 @@
   "道德与法治"
  ],
  "compression": "bzip2",
- "books": 1352,
- "chapters": 8850,
- "chars": 94179674,
+ "books": 1169,
+ "chapters": 7775,
+ "chars": 85992952,
  "artifacts": {
   "chapters": {
    "file": "chapters.zip",
-   "bytes": 61450551,
-   "sha256": "1d78a44dfb05e5ec2421c320ee1fc297c0e74c0c92f936af2450fffae550baf7",
-   "members": 8850
+   "bytes": 54225085,
+   "sha256": "fac97d3ae6eaf95ab5efde42583615e6547a15aa3787f4bd8da8a06b5ca06ccb",
+   "members": 7775
   },
   "catalog": {
    "file": "catalog.json",
-   "bytes": 388565,
-   "sha256": "72467338812f431ea659869bc980b42bae21efd16566859c110b075a5ef6133e"
+   "bytes": 339289,
+   "sha256": "d2403b74dba1ba426590d1730d2e47aeaa4b6b0986451d3bcc790f38309ef420"
   }
  },
  "source_manifest_sha256": "64671f84aaf1817077cab825c77a453cae8678f3d90f536845d47c94f233b7d9"
